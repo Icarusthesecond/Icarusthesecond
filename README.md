@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Icarusthesecond
-- 👀 I’m interested in Pen-testing
-- 🌱 I’m currently learning Linux and other tools
+- 👋 Hi, I’m Nishanth, Web-tag Icarusthesecond.
+- 👀 I’m interested in Pen-testing, Web Development & Vulnerability Scanning.
+- 🌱 I’m currently learning Linux and other security tools.
 - 📫 How to reach me : nishanthnaidu268@gmail.com
 - 😄 Pronouns: He/Him
 
